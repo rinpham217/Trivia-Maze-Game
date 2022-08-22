@@ -6,6 +6,10 @@ import java.net.URL;
 
 /**
  * This class will create a background music.
+ * @author Rin Pham
+ * @version 1.0
+ * @since 1.0
+ */
  */
 public class Audio {
     private static Clip myClip;
